@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[FristSite]]></title>
         <description><![CDATA[FristSite]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fristsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 20:36:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 20:43:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fristsite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Brandenburg Gate ]]></title>
             <description><![CDATA[<article><h1>Brandenburg Gate </h1><p>Berlin 2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1c8f0eb-211f-4742-a325-7890edfbef97.jpg"></article>]]></description>
-            <link>undefinedberlin-2016/index.html</link>
+            <link>https://thegrid.ai/fristsite/berlin-2016/index.html</link>
             <guid isPermaLink="false">0eb3612d-291d-4349-9d0b-75223e9e8ed4</guid>
-            <pubDate>Sun, 17 Apr 2016 20:36:43 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2016 20:43:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
